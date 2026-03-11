@@ -158,4 +158,5 @@ Button(root,text="Search Contact",width=20,command=searchContact).pack(pady=5)
 Button(root,text="View Contacts",width=20,command=viewContact).pack(pady=5)
 Button(root,text="Delete Contact",width=20,command=deleteContact).pack(pady=5)
 
+
 root.mainloop()
